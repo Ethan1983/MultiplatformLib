@@ -1,0 +1,4 @@
+rootProject.name = 'MultiplatformLib'
+
+
+enableFeaturePreview('GRADLE_METADATA')
